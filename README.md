@@ -1,41 +1,33 @@
-📊 ClarezaFy - Dashboard Financeiro para MEI
+<h1 align="center">📊 ClarezaFy</h1>
 
-O ClarezaFy é uma aplicação web completa de gestão financeira desenvolvida especificamente para Microempreendedores Individuais (MEI) e pequenos negócios. O objetivo é transformar números complexos em decisões lucrativas através de uma interface intuitiva e relatórios visuais.
+<h2>📋 Sobre o Projeto</h2>
 
-🚀 Funcionalidades Principais
+<p>
+O <strong>ClarezaFy</strong> é uma ferramenta de inteligência financeira desenvolvida para Microempreendedores Individuais (MEI).
+</p>
 
-Gestão Financeira Completa: Cadastro de receitas, custos fixos e custos variáveis mensais.
+<p>
+O objetivo é resolver a falta de clareza sobre o lucro real do negócio, fugindo de planilhas complexas. A aplicação foca na simplicidade visual e privacidade, rodando inteiramente no navegador do usuário (Local-First).
+</p>
 
-Dashboard Interativo: Visualização de dados com gráficos de linha para acompanhar a evolução financeira (Receita vs. Custos vs. Lucro).
+<h2>🚀 Tecnologias</h2>
 
-Cálculos Automáticos:
+<ul>
+<li>React.js</li>
+<li>Tailwind CSS</li>
+<li>Lucide React (Ícones)</li>
+<li>Local Storage (Banco de dados no navegador)</li>
+</ul>
 
-Margem de Lucro (%)
+<h2>✨ Funcionalidades Principais</h2>
 
-Ponto de Equilíbrio (Break-even Point)
+<ul>
+<li><strong>Dashboard Visual:</strong> Saúde financeira em uma única tela.</li>
+<li><strong>Cálculos Automáticos:</strong> Margem de Lucro e Ponto de Equilíbrio em tempo real.</li>
+<li><strong>Gestão Simples:</strong> Lançamento rápido de receitas e custos.</li>
+<li><strong>Privacidade:</strong> Sem cadastro, dados 100% sob controle do usuário.</li>
+</ul>
 
-Resultados Operacionais (Lucro/Prejuízo)
+<h2>👨‍💻 Autor</h2>
 
-Gerador de Relatórios PDF: Criação instantânea de relatórios financeiros detalhados prontos para impressão ou envio.
-
-Persistência de Dados: Todos os dados são salvos automaticamente no navegador (LocalStorage), garantindo privacidade e acesso rápido.
-
-Internacionalização (i18n): Suporte completo para Português (BR) e Inglês (EN), com conversão de moedas (BRL, USD, EUR).
-
-Temas: Modo Claro (Light) e Escuro (Dark).
-
-UX Aprimorada: Interface responsiva (Mobile-First) e funcionalidade "Apoie o Dev" com cópia inteligente de chave Pix.
-
-🛠️ Tecnologias Utilizadas
-
-Este projeto foi desenvolvido com as seguintes tecnologias e bibliotecas:
-
-React.js - Biblioteca principal para construção da interface.
-
-Tailwind CSS - Estilização moderna e responsiva.
-
-Recharts - Biblioteca para construção dos gráficos financeiros.
-
-jsPDF & html2canvas - Motores para a geração dos relatórios em PDF.
-
-Lucide React - Ícones leves e modernos.
+<p>Leandro Morais</p>
