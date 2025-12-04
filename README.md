@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+📊 ClarezaFy - Dashboard Financeiro para MEI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O ClarezaFy é uma aplicação web completa de gestão financeira desenvolvida especificamente para Microempreendedores Individuais (MEI) e pequenos negócios. O objetivo é transformar números complexos em decisões lucrativas através de uma interface intuitiva e relatórios visuais.
 
-## Available Scripts
+🚀 Funcionalidades Principais
 
-In the project directory, you can run:
+Gestão Financeira Completa: Cadastro de receitas, custos fixos e custos variáveis mensais.
 
-### `npm start`
+Dashboard Interativo: Visualização de dados com gráficos de linha para acompanhar a evolução financeira (Receita vs. Custos vs. Lucro).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Cálculos Automáticos:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Margem de Lucro (%)
 
-### `npm test`
+Ponto de Equilíbrio (Break-even Point)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Resultados Operacionais (Lucro/Prejuízo)
 
-### `npm run build`
+Gerador de Relatórios PDF: Criação instantânea de relatórios financeiros detalhados prontos para impressão ou envio.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Persistência de Dados: Todos os dados são salvos automaticamente no navegador (LocalStorage), garantindo privacidade e acesso rápido.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Internacionalização (i18n): Suporte completo para Português (BR) e Inglês (EN), com conversão de moedas (BRL, USD, EUR).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Temas: Modo Claro (Light) e Escuro (Dark).
 
-### `npm run eject`
+UX Aprimorada: Interface responsiva (Mobile-First) e funcionalidade "Apoie o Dev" com cópia inteligente de chave Pix.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🛠️ Tecnologias Utilizadas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este projeto foi desenvolvido com as seguintes tecnologias e bibliotecas:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React.js - Biblioteca principal para construção da interface.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Tailwind CSS - Estilização moderna e responsiva.
 
-## Learn More
+Recharts - Biblioteca para construção dos gráficos financeiros.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+jsPDF & html2canvas - Motores para a geração dos relatórios em PDF.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Lucide React - Ícones leves e modernos.
