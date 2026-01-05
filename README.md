@@ -28,6 +28,8 @@ O objetivo é resolver a falta de clareza sobre o lucro real do negócio, fugind
 <li><strong>Privacidade:</strong> Sem cadastro, dados 100% sob controle do usuário.</li>
 </ul>
 
+<p>Acesse: </p><link>https://clarezafy.netlify.app/<link>
+
 <h2>👨‍💻 Autor</h2>
 
 <p>Leandro Morais</p>
