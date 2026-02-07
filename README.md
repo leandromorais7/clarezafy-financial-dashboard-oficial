@@ -13,7 +13,13 @@ O objetivo é resolver a falta de clareza sobre o lucro real do negócio, fugind
 <h2>🚀 Tecnologias</h2>
 
 <ul>
+<li>Visual Studio Code</li>
 <li>React.js</li>
+<li>JavaScript</li>
+<li>Chart.js</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>Netlify</li>
 <li>Tailwind CSS</li>
 <li>Lucide React (Ícones)</li>
 <li>Local Storage (Banco de dados no navegador)</li>
