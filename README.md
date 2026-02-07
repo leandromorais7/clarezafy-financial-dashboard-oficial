@@ -3,7 +3,7 @@
 <h2>📋 Sobre o Projeto</h2>
 
 <p>
-O <strong>ClarezaFy</strong> é uma ferramenta de inteligência financeira desenvolvida para Microempreendedores Individuais (MEI).
+O <strong>ClarezaFy</strong> é uma ferramenta de inteligência financeira desenvolvida para Microempreendedores.
 </p>
 
 <p>
