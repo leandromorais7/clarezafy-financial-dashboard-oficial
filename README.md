@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
 </p>
 
-> **"Números claros, decisões lucrativas."**
+> **"Números claros, decisões lucrativas".**
 
 O **ClarezaFy** é uma aplicação Full-Stack desenvolvida para resolver um problema real de pequenos negócios: a falta de visão clara sobre lucro real e ponto de equilíbrio. Diferente de planilhas complexas, ele oferece uma interface intuitiva com sincronização em nuvem e relatórios automáticos.
 
